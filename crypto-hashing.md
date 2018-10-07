@@ -1,5 +1,4 @@
 Crypto Hashing and Merkle Tree
-Randy Zhang
 
 Hashing is to take a typically long list and condenses it to a short list. The short list (hash) is used to represent the long list (input). Hashing is commonly used in programming and database to speed up search. The algorithm to generate the hash is called the hash function.
 
